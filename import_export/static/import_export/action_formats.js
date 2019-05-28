@@ -19,4 +19,4 @@
     });
     $actionsSelect.change();
   });
-})(django.jQuery);
+})(jQuery.noConflict(true));
